@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100&display=swap');
+body{
+    background-color: rgb(13, 23, 44);
+}
+
+p{
+    text-align: justify;
+    padding: 5px 15px 5px 10px;
+    color: white;
+    font-family: 'prompt';
+}
+
+p.one{
+    background-color: rgb(168, 103, 98);
+    /*padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding: 5px 15px 5px 10px;*/
+}
+
+p.tow{
+    background-color: rgb(184, 152, 154);
+}
+
+p.three{
+    font-family: 'Times New Roman';
+    color: yellow;
+    font-weight: normal;
+    font-size:medium;
+}
+
+.ytr{
+    border-radius: 30px;
+    opacity: 0.8;
+}
+
+.divOne{
+    background-color: rgb(29, 54, 93);
+    padding-bottom: 40px;
+}
+.header{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: orangered;
+    display: inline;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman';
+}
+
+div a{
+    color: white;
+    text-decoration: none;
+    padding-left:  10px;
+}
+
+div a:hover{
+    color: orange;
+}
+
+div a:active{
+    color: red;
+}
+
+.catDis{
+    border-radius: 50%;
+    height: 175px;
+    width: 175px;
+    border: 3px red solid;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 10px;
+    padding-top: 80x;
+}
+.floating{
+    color: orangered;
+    margin: 10px;
+    
+}
+
+.imgh{
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+}
+
+h2.cath2{
+    font-weight: bold;
+    color: white;
+}
+
+.imgcat{
+    height: 140px;
+    width: 500px;
+}
